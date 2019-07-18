@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">THY Turkish Cargo</name>
+            <texture>Liveries-F/THY.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>THY</aircraft-operator>
+</sim>
+</PropertyList>
